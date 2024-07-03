@@ -1,0 +1,450 @@
+{"orderID": 10000, "customerID": 1207, "productID": [7, 10, 1, 15, 15], "paymentMthd": "Credit card", "totalAmt": 90.25, "invoiceTime": "2024-06-30T08:28:43.507267"}
+{"orderID": 10200, "customerID": 1496, "productID": [12, 15, 3], "paymentMthd": "Credit card", "totalAmt": 1420.52, "invoiceTime": "2024-06-30T08:28:43.507298"}
+{"orderID": 10400, "customerID": 1150, "productID": [9, 0, 1, 15], "paymentMthd": "Cash on delivery", "totalAmt": 3956.87, "invoiceTime": "2024-06-30T08:28:43.507315"}
+{"orderID": 10600, "customerID": 1142, "productID": [17, 7, 17, 8, 0], "paymentMthd": "Cash on delivery", "totalAmt": 4314.7, "invoiceTime": "2024-06-30T08:28:43.507335"}
+{"orderID": 10800, "customerID": 1113, "productID": [6], "paymentMthd": "Digital wallet", "totalAmt": 568.8, "invoiceTime": "2024-06-30T08:28:43.507347"}
+{"orderID": 11000, "customerID": 1462, "productID": [7], "paymentMthd": "Debit card", "totalAmt": 1368.49, "invoiceTime": "2024-06-30T08:28:43.507357"}
+{"orderID": 11200, "customerID": 1081, "productID": [5, 13, 16, 10], "paymentMthd": "Debit card", "totalAmt": 3105.65, "invoiceTime": "2024-06-30T08:28:43.507367"}
+{"orderID": 11400, "customerID": 1744, "productID": [4], "paymentMthd": "Cash on delivery", "totalAmt": 268.43, "invoiceTime": "2024-06-30T08:28:43.507377"}
+{"orderID": 11600, "customerID": 1666, "productID": [9, 8, 14, 10], "paymentMthd": "Cash on delivery", "totalAmt": 1433.32, "invoiceTime": "2024-06-30T08:28:43.507386"}
+{"orderID": 11800, "customerID": 1596, "productID": [2, 2], "paymentMthd": "Credit card", "totalAmt": 4622.31, "invoiceTime": "2024-06-30T08:28:43.507402"}
+{"orderID": 12000, "customerID": 1807, "productID": [5, 11], "paymentMthd": "Cash on delivery", "totalAmt": 2412.77, "invoiceTime": "2024-06-30T08:28:43.507411"}
+{"orderID": 12200, "customerID": 1398, "productID": [9, 12, 15, 10, 0], "paymentMthd": "Cryptocurrency", "totalAmt": 499.02, "invoiceTime": "2024-06-30T08:28:43.507420"}
+{"orderID": 12400, "customerID": 1079, "productID": [14, 5, 19, 7], "paymentMthd": "Credit card", "totalAmt": 428.88, "invoiceTime": "2024-06-30T08:28:43.507429"}
+{"orderID": 12600, "customerID": 1112, "productID": [12, 11, 7], "paymentMthd": "Digital wallet", "totalAmt": 4347.44, "invoiceTime": "2024-06-30T08:28:43.507445"}
+{"orderID": 12800, "customerID": 1835, "productID": [2], "paymentMthd": "Digital wallet", "totalAmt": 417.13, "invoiceTime": "2024-06-30T08:28:43.507455"}
+{"orderID": 13000, "customerID": 1761, "productID": [18], "paymentMthd": "Cash on delivery", "totalAmt": 3324.24, "invoiceTime": "2024-06-30T08:28:43.507463"}
+{"orderID": 13200, "customerID": 1735, "productID": [15, 8, 2], "paymentMthd": "Credit card", "totalAmt": 4833.7, "invoiceTime": "2024-06-30T08:28:43.507478"}
+{"orderID": 13400, "customerID": 1360, "productID": [9, 2], "paymentMthd": "Cryptocurrency", "totalAmt": 1245.33, "invoiceTime": "2024-06-30T08:28:43.507494"}
+{"orderID": 13600, "customerID": 1194, "productID": [6], "paymentMthd": "Digital wallet", "totalAmt": 683.61, "invoiceTime": "2024-06-30T08:28:43.507503"}
+{"orderID": 13800, "customerID": 1532, "productID": [9], "paymentMthd": "Cryptocurrency", "totalAmt": 1983.33, "invoiceTime": "2024-06-30T08:28:43.507518"}
+{"orderID": 14000, "customerID": 1974, "productID": [11, 7], "paymentMthd": "Cash on delivery", "totalAmt": 647.86, "invoiceTime": "2024-06-30T08:28:43.507527"}
+{"orderID": 14200, "customerID": 1007, "productID": [1, 17, 1, 8, 16], "paymentMthd": "Debit card", "totalAmt": 96.11, "invoiceTime": "2024-06-30T08:28:43.507536"}
+{"orderID": 14400, "customerID": 1285, "productID": [7], "paymentMthd": "Cryptocurrency", "totalAmt": 307.26, "invoiceTime": "2024-06-30T08:28:43.507544"}
+{"orderID": 14600, "customerID": 1910, "productID": [16, 7, 8], "paymentMthd": "Cryptocurrency", "totalAmt": 4037.0, "invoiceTime": "2024-06-30T08:28:43.507559"}
+{"orderID": 14800, "customerID": 1137, "productID": [7, 16, 5, 15], "paymentMthd": "Debit card", "totalAmt": 3323.69, "invoiceTime": "2024-06-30T08:28:43.507568"}
+{"orderID": 15000, "customerID": 1946, "productID": [4, 12, 6, 3], "paymentMthd": "Cryptocurrency", "totalAmt": 3752.53, "invoiceTime": "2024-06-30T08:28:43.507576"}
+{"orderID": 15200, "customerID": 1633, "productID": [2, 11, 3, 1, 0], "paymentMthd": "Debit card", "totalAmt": 838.43, "invoiceTime": "2024-06-30T08:28:43.507585"}
+{"orderID": 15400, "customerID": 1747, "productID": [7], "paymentMthd": "Debit card", "totalAmt": 653.87, "invoiceTime": "2024-06-30T08:28:43.507594"}
+{"orderID": 15600, "customerID": 1438, "productID": [13, 0, 7, 16], "paymentMthd": "Cash on delivery", "totalAmt": 1185.45, "invoiceTime": "2024-06-30T08:28:43.507607"}
+{"orderID": 15800, "customerID": 1049, "productID": [3, 7, 2, 9], "paymentMthd": "Digital wallet", "totalAmt": 248.78, "invoiceTime": "2024-06-30T08:28:43.507617"}
+{"orderID": 16000, "customerID": 1353, "productID": [14, 5], "paymentMthd": "Digital wallet", "totalAmt": 3113.8, "invoiceTime": "2024-06-30T08:28:43.507625"}
+{"orderID": 16200, "customerID": 1661, "productID": [10, 1, 1, 12], "paymentMthd": "Debit card", "totalAmt": 3054.84, "invoiceTime": "2024-06-30T08:28:43.507639"}
+{"orderID": 16400, "customerID": 1962, "productID": [5], "paymentMthd": "Digital wallet", "totalAmt": 3912.47, "invoiceTime": "2024-06-30T08:28:43.507648"}
+{"orderID": 16600, "customerID": 1714, "productID": [2], "paymentMthd": "Digital wallet", "totalAmt": 1956.7, "invoiceTime": "2024-06-30T08:28:43.507664"}
+{"orderID": 16800, "customerID": 1144, "productID": [15, 11, 13], "paymentMthd": "Digital wallet", "totalAmt": 1954.34, "invoiceTime": "2024-06-30T08:28:43.507672"}
+{"orderID": 17000, "customerID": 1986, "productID": [19, 13, 14, 10], "paymentMthd": "Cash on delivery", "totalAmt": 4881.28, "invoiceTime": "2024-06-30T08:28:43.507680"}
+{"orderID": 17200, "customerID": 1200, "productID": [6, 8, 6, 7], "paymentMthd": "Debit card", "totalAmt": 4736.21, "invoiceTime": "2024-06-30T08:28:43.507689"}
+{"orderID": 17400, "customerID": 1958, "productID": [11], "paymentMthd": "Digital wallet", "totalAmt": 258.67, "invoiceTime": "2024-06-30T08:28:43.507704"}
+{"orderID": 17600, "customerID": 1333, "productID": [3, 17, 0, 7, 0], "paymentMthd": "Digital wallet", "totalAmt": 442.45, "invoiceTime": "2024-06-30T08:28:43.507713"}
+{"orderID": 17800, "customerID": 1475, "productID": [8, 19], "paymentMthd": "Digital wallet", "totalAmt": 4353.58, "invoiceTime": "2024-06-30T08:28:43.507728"}
+{"orderID": 18000, "customerID": 1115, "productID": [11, 0], "paymentMthd": "Debit card", "totalAmt": 93.55, "invoiceTime": "2024-06-30T08:28:43.507744"}
+{"orderID": 18200, "customerID": 1276, "productID": [19, 18, 1, 4], "paymentMthd": "Digital wallet", "totalAmt": 4375.97, "invoiceTime": "2024-06-30T08:28:43.507752"}
+{"orderID": 18400, "customerID": 1838, "productID": [18, 2, 7], "paymentMthd": "Credit card", "totalAmt": 2836.36, "invoiceTime": "2024-06-30T08:28:43.507767"}
+{"orderID": 18600, "customerID": 1202, "productID": [4, 17, 9, 10], "paymentMthd": "Digital wallet", "totalAmt": 4718.48, "invoiceTime": "2024-06-30T08:28:43.507778"}
+{"orderID": 18800, "customerID": 1341, "productID": [18, 12, 16], "paymentMthd": "Digital wallet", "totalAmt": 1373.33, "invoiceTime": "2024-06-30T08:28:43.507787"}
+{"orderID": 19000, "customerID": 1619, "productID": [1, 10, 11, 0], "paymentMthd": "Cash on delivery", "totalAmt": 3617.47, "invoiceTime": "2024-06-30T08:28:43.507801"}
+{"orderID": 19200, "customerID": 1436, "productID": [19], "paymentMthd": "Credit card", "totalAmt": 4946.85, "invoiceTime": "2024-06-30T08:28:43.507817"}
+{"orderID": 19400, "customerID": 1931, "productID": [6, 18, 15], "paymentMthd": "Cash on delivery", "totalAmt": 1899.45, "invoiceTime": "2024-06-30T08:28:43.507832"}
+{"orderID": 19600, "customerID": 1729, "productID": [9, 11, 16, 9, 15], "paymentMthd": "Digital wallet", "totalAmt": 2828.49, "invoiceTime": "2024-06-30T08:28:43.507841"}
+{"orderID": 19800, "customerID": 1758, "productID": [11, 5], "paymentMthd": "Cryptocurrency", "totalAmt": 1518.43, "invoiceTime": "2024-06-30T08:28:43.507857"}
+{"orderID": 20000, "customerID": 1643, "productID": [7, 12, 11, 1], "paymentMthd": "Digital wallet", "totalAmt": 2553.38, "invoiceTime": "2024-06-30T08:28:43.507866"}
+{"orderID": 20200, "customerID": 1957, "productID": [18, 8, 10, 6], "paymentMthd": "Credit card", "totalAmt": 128.51, "invoiceTime": "2024-06-30T08:28:43.507930"}
+{"orderID": 20400, "customerID": 1349, "productID": [10, 9, 16, 17, 8], "paymentMthd": "Credit card", "totalAmt": 4121.64, "invoiceTime": "2024-06-30T08:28:43.507947"}
+{"orderID": 20600, "customerID": 1012, "productID": [16, 2, 0, 19], "paymentMthd": "Debit card", "totalAmt": 2628.06, "invoiceTime": "2024-06-30T08:28:43.507962"}
+{"orderID": 20800, "customerID": 1336, "productID": [7, 2, 3, 7], "paymentMthd": "Cash on delivery", "totalAmt": 1573.83, "invoiceTime": "2024-06-30T08:28:43.507971"}
+{"orderID": 21000, "customerID": 1904, "productID": [10, 17], "paymentMthd": "Debit card", "totalAmt": 4274.9, "invoiceTime": "2024-06-30T08:28:43.507979"}
+{"orderID": 21200, "customerID": 1036, "productID": [7, 6, 1], "paymentMthd": "Debit card", "totalAmt": 4795.87, "invoiceTime": "2024-06-30T08:28:43.507995"}
+{"orderID": 21400, "customerID": 1757, "productID": [4, 18, 15], "paymentMthd": "Cryptocurrency", "totalAmt": 3915.28, "invoiceTime": "2024-06-30T08:28:43.508004"}
+{"orderID": 21600, "customerID": 1867, "productID": [18, 7, 16], "paymentMthd": "Cash on delivery", "totalAmt": 3633.87, "invoiceTime": "2024-06-30T08:28:43.508012"}
+{"orderID": 21800, "customerID": 1644, "productID": [10, 8, 3], "paymentMthd": "Credit card", "totalAmt": 1939.31, "invoiceTime": "2024-06-30T08:28:43.508021"}
+{"orderID": 22000, "customerID": 1654, "productID": [18, 8, 8, 16, 14], "paymentMthd": "Digital wallet", "totalAmt": 2157.59, "invoiceTime": "2024-06-30T08:28:43.508029"}
+{"orderID": 22200, "customerID": 1124, "productID": [2, 9, 2, 9], "paymentMthd": "Credit card", "totalAmt": 3163.48, "invoiceTime": "2024-06-30T08:28:43.508043"}
+{"orderID": 22400, "customerID": 1856, "productID": [1, 15], "paymentMthd": "Cryptocurrency", "totalAmt": 384.87, "invoiceTime": "2024-06-30T08:28:43.508052"}
+{"orderID": 22600, "customerID": 1875, "productID": [7, 3, 2, 9], "paymentMthd": "Debit card", "totalAmt": 1078.9, "invoiceTime": "2024-06-30T08:28:43.508066"}
+{"orderID": 22800, "customerID": 1198, "productID": [11], "paymentMthd": "Debit card", "totalAmt": 207.2, "invoiceTime": "2024-06-30T08:28:43.508075"}
+{"orderID": 23000, "customerID": 1528, "productID": [0, 11, 6, 5], "paymentMthd": "Cash on delivery", "totalAmt": 1894.23, "invoiceTime": "2024-06-30T08:28:43.508083"}
+{"orderID": 23200, "customerID": 1790, "productID": [13, 12, 3], "paymentMthd": "Digital wallet", "totalAmt": 4690.16, "invoiceTime": "2024-06-30T08:28:43.508091"}
+{"orderID": 23400, "customerID": 1602, "productID": [5, 8, 3, 3], "paymentMthd": "Credit card", "totalAmt": 2495.52, "invoiceTime": "2024-06-30T08:28:43.508099"}
+{"orderID": 23600, "customerID": 1485, "productID": [4], "paymentMthd": "Digital wallet", "totalAmt": 1560.52, "invoiceTime": "2024-06-30T08:28:43.508107"}
+{"orderID": 23800, "customerID": 1720, "productID": [4, 14, 9, 4], "paymentMthd": "Credit card", "totalAmt": 4937.4, "invoiceTime": "2024-06-30T08:28:43.508116"}
+{"orderID": 24000, "customerID": 1626, "productID": [19, 1, 6, 6], "paymentMthd": "Debit card", "totalAmt": 1816.9, "invoiceTime": "2024-06-30T08:28:43.508130"}
+{"orderID": 24200, "customerID": 1879, "productID": [6, 3, 2, 13], "paymentMthd": "Credit card", "totalAmt": 1858.97, "invoiceTime": "2024-06-30T08:28:43.508139"}
+{"orderID": 24400, "customerID": 1624, "productID": [16], "paymentMthd": "Digital wallet", "totalAmt": 3545.51, "invoiceTime": "2024-06-30T08:28:43.508153"}
+{"orderID": 24600, "customerID": 1837, "productID": [2, 18, 10], "paymentMthd": "Cryptocurrency", "totalAmt": 4399.23, "invoiceTime": "2024-06-30T08:28:43.508162"}
+{"orderID": 24800, "customerID": 1265, "productID": [13], "paymentMthd": "Digital wallet", "totalAmt": 4104.1, "invoiceTime": "2024-06-30T08:28:43.508170"}
+{"orderID": 25000, "customerID": 1423, "productID": [10, 7, 6], "paymentMthd": "Digital wallet", "totalAmt": 3278.76, "invoiceTime": "2024-06-30T08:28:43.508178"}
+{"orderID": 25200, "customerID": 1155, "productID": [13, 17, 8], "paymentMthd": "Cryptocurrency", "totalAmt": 1583.93, "invoiceTime": "2024-06-30T08:28:43.508186"}
+{"orderID": 25400, "customerID": 1217, "productID": [13, 10, 1], "paymentMthd": "Cash on delivery", "totalAmt": 1271.49, "invoiceTime": "2024-06-30T08:28:43.508194"}
+{"orderID": 25600, "customerID": 1767, "productID": [12, 12, 19, 1], "paymentMthd": "Cryptocurrency", "totalAmt": 4546.5, "invoiceTime": "2024-06-30T08:28:43.508202"}
+{"orderID": 25800, "customerID": 1053, "productID": [2, 18], "paymentMthd": "Digital wallet", "totalAmt": 1151.24, "invoiceTime": "2024-06-30T08:28:43.508210"}
+{"orderID": 26000, "customerID": 1783, "productID": [1, 4], "paymentMthd": "Cash on delivery", "totalAmt": 1143.93, "invoiceTime": "2024-06-30T08:28:43.508218"}
+{"orderID": 26200, "customerID": 1160, "productID": [8, 14, 14], "paymentMthd": "Cash on delivery", "totalAmt": 4146.69, "invoiceTime": "2024-06-30T08:28:43.508233"}
+{"orderID": 26400, "customerID": 1296, "productID": [15, 16, 7, 18], "paymentMthd": "Credit card", "totalAmt": 655.06, "invoiceTime": "2024-06-30T08:28:43.508241"}
+{"orderID": 26600, "customerID": 1219, "productID": [9, 0], "paymentMthd": "Cash on delivery", "totalAmt": 2859.58, "invoiceTime": "2024-06-30T08:28:43.508250"}
+{"orderID": 26800, "customerID": 1050, "productID": [3, 16, 19, 0], "paymentMthd": "Credit card", "totalAmt": 993.45, "invoiceTime": "2024-06-30T08:28:43.508258"}
+{"orderID": 27000, "customerID": 1191, "productID": [2], "paymentMthd": "Debit card", "totalAmt": 1689.45, "invoiceTime": "2024-06-30T08:28:43.508266"}
+{"orderID": 27200, "customerID": 1340, "productID": [4, 14, 13], "paymentMthd": "Debit card", "totalAmt": 253.04, "invoiceTime": "2024-06-30T08:28:43.508274"}
+{"orderID": 27400, "customerID": 1298, "productID": [15, 8, 7, 3, 15], "paymentMthd": "Cryptocurrency", "totalAmt": 4112.45, "invoiceTime": "2024-06-30T08:28:43.508282"}
+{"orderID": 27600, "customerID": 1170, "productID": [13], "paymentMthd": "Debit card", "totalAmt": 595.06, "invoiceTime": "2024-06-30T08:28:43.508290"}
+{"orderID": 27800, "customerID": 1715, "productID": [8], "paymentMthd": "Digital wallet", "totalAmt": 4670.94, "invoiceTime": "2024-06-30T08:28:43.508304"}
+{"orderID": 28000, "customerID": 1843, "productID": [17, 17, 10], "paymentMthd": "Debit card", "totalAmt": 641.99, "invoiceTime": "2024-06-30T08:28:43.508313"}
+{"orderID": 28200, "customerID": 1646, "productID": [16, 9], "paymentMthd": "Cryptocurrency", "totalAmt": 3641.89, "invoiceTime": "2024-06-30T08:28:43.508321"}
+{"orderID": 28400, "customerID": 1069, "productID": [17, 17, 8], "paymentMthd": "Cash on delivery", "totalAmt": 4411.6, "invoiceTime": "2024-06-30T08:28:43.508335"}
+{"orderID": 28600, "customerID": 1152, "productID": [9, 10, 18], "paymentMthd": "Digital wallet", "totalAmt": 361.67, "invoiceTime": "2024-06-30T08:28:43.508350"}
+{"orderID": 28800, "customerID": 1337, "productID": [0, 9], "paymentMthd": "Cash on delivery", "totalAmt": 4861.57, "invoiceTime": "2024-06-30T08:28:43.508359"}
+{"orderID": 29000, "customerID": 1356, "productID": [1, 17, 0, 1], "paymentMthd": "Cryptocurrency", "totalAmt": 2953.54, "invoiceTime": "2024-06-30T08:28:43.508367"}
+{"orderID": 29200, "customerID": 1742, "productID": [10, 10, 18], "paymentMthd": "Debit card", "totalAmt": 1256.76, "invoiceTime": "2024-06-30T08:28:43.508375"}
+{"orderID": 29400, "customerID": 1531, "productID": [9, 3], "paymentMthd": "Cash on delivery", "totalAmt": 4642.31, "invoiceTime": "2024-06-30T08:28:43.508383"}
+{"orderID": 29600, "customerID": 1564, "productID": [8, 14, 12, 3], "paymentMthd": "Cryptocurrency", "totalAmt": 2892.78, "invoiceTime": "2024-06-30T08:28:43.508391"}
+{"orderID": 29800, "customerID": 1982, "productID": [10], "paymentMthd": "Digital wallet", "totalAmt": 2701.23, "invoiceTime": "2024-06-30T08:28:43.508405"}
+{"orderID": 30000, "customerID": 1342, "productID": [4], "paymentMthd": "Digital wallet", "totalAmt": 244.22, "invoiceTime": "2024-06-30T08:28:43.508414"}
+{"orderID": 30200, "customerID": 1182, "productID": [14, 5, 10, 4], "paymentMthd": "Debit card", "totalAmt": 2520.85, "invoiceTime": "2024-06-30T08:28:43.508459"}
+{"orderID": 30400, "customerID": 1313, "productID": [16, 18, 5, 12, 11], "paymentMthd": "Digital wallet", "totalAmt": 1644.52, "invoiceTime": "2024-06-30T08:28:43.508469"}
+{"orderID": 30600, "customerID": 1658, "productID": [1, 19, 11], "paymentMthd": "Credit card", "totalAmt": 1269.64, "invoiceTime": "2024-06-30T08:28:43.508477"}
+{"orderID": 30800, "customerID": 1355, "productID": [12, 15, 16], "paymentMthd": "Digital wallet", "totalAmt": 2880.41, "invoiceTime": "2024-06-30T08:28:43.508491"}
+{"orderID": 31000, "customerID": 1021, "productID": [2], "paymentMthd": "Cash on delivery", "totalAmt": 2971.38, "invoiceTime": "2024-06-30T08:28:43.508501"}
+{"orderID": 31200, "customerID": 1151, "productID": [15], "paymentMthd": "Credit card", "totalAmt": 1475.11, "invoiceTime": "2024-06-30T08:28:43.508509"}
+{"orderID": 31400, "customerID": 1021, "productID": [12, 1, 12, 2, 10], "paymentMthd": "Cryptocurrency", "totalAmt": 2236.2, "invoiceTime": "2024-06-30T08:28:43.508517"}
+{"orderID": 31600, "customerID": 1424, "productID": [1, 5, 0, 11], "paymentMthd": "Debit card", "totalAmt": 4787.7, "invoiceTime": "2024-06-30T08:28:43.508525"}
+{"orderID": 31800, "customerID": 1997, "productID": [10], "paymentMthd": "Cryptocurrency", "totalAmt": 4064.4, "invoiceTime": "2024-06-30T08:28:43.508538"}
+{"orderID": 32000, "customerID": 1426, "productID": [9, 6, 13, 19], "paymentMthd": "Credit card", "totalAmt": 1399.05, "invoiceTime": "2024-06-30T08:28:43.508547"}
+{"orderID": 32200, "customerID": 1574, "productID": [1, 6, 1, 17, 15], "paymentMthd": "Cash on delivery", "totalAmt": 4150.93, "invoiceTime": "2024-06-30T08:28:43.508555"}
+{"orderID": 32400, "customerID": 1510, "productID": [14, 19, 13, 9, 8], "paymentMthd": "Debit card", "totalAmt": 2528.44, "invoiceTime": "2024-06-30T08:28:43.508569"}
+{"orderID": 32600, "customerID": 1006, "productID": [9, 2, 2, 11, 1], "paymentMthd": "Digital wallet", "totalAmt": 1304.78, "invoiceTime": "2024-06-30T08:28:43.508577"}
+{"orderID": 32800, "customerID": 1740, "productID": [0, 12, 14], "paymentMthd": "Debit card", "totalAmt": 4862.65, "invoiceTime": "2024-06-30T08:28:43.508586"}
+{"orderID": 33000, "customerID": 1451, "productID": [11, 18, 8], "paymentMthd": "Digital wallet", "totalAmt": 1774.09, "invoiceTime": "2024-06-30T08:28:43.508594"}
+{"orderID": 33200, "customerID": 1613, "productID": [0, 0], "paymentMthd": "Cryptocurrency", "totalAmt": 4919.19, "invoiceTime": "2024-06-30T08:28:43.508602"}
+{"orderID": 33400, "customerID": 1057, "productID": [6, 15, 13, 17], "paymentMthd": "Debit card", "totalAmt": 1563.14, "invoiceTime": "2024-06-30T08:28:43.508610"}
+{"orderID": 33600, "customerID": 1179, "productID": [17, 19, 16, 19], "paymentMthd": "Cryptocurrency", "totalAmt": 3094.91, "invoiceTime": "2024-06-30T08:28:43.508618"}
+{"orderID": 33800, "customerID": 1025, "productID": [14, 9], "paymentMthd": "Cryptocurrency", "totalAmt": 1030.02, "invoiceTime": "2024-06-30T08:28:43.508626"}
+{"orderID": 34000, "customerID": 1938, "productID": [5, 19, 6, 11, 19], "paymentMthd": "Cryptocurrency", "totalAmt": 3418.06, "invoiceTime": "2024-06-30T08:28:43.508634"}
+{"orderID": 34200, "customerID": 1252, "productID": [19, 13, 2, 9], "paymentMthd": "Debit card", "totalAmt": 2857.47, "invoiceTime": "2024-06-30T08:28:43.508643"}
+{"orderID": 34400, "customerID": 1159, "productID": [7], "paymentMthd": "Digital wallet", "totalAmt": 1065.41, "invoiceTime": "2024-06-30T08:28:43.508657"}
+{"orderID": 34600, "customerID": 1186, "productID": [8, 13, 2], "paymentMthd": "Cryptocurrency", "totalAmt": 3809.46, "invoiceTime": "2024-06-30T08:28:43.508666"}
+{"orderID": 34800, "customerID": 1344, "productID": [11, 13], "paymentMthd": "Debit card", "totalAmt": 3709.59, "invoiceTime": "2024-06-30T08:28:43.508679"}
+{"orderID": 35000, "customerID": 1885, "productID": [7, 0, 12, 1], "paymentMthd": "Credit card", "totalAmt": 3918.29, "invoiceTime": "2024-06-30T08:28:43.508687"}
+{"orderID": 35200, "customerID": 1301, "productID": [18, 16], "paymentMthd": "Digital wallet", "totalAmt": 136.72, "invoiceTime": "2024-06-30T08:28:43.508695"}
+{"orderID": 35400, "customerID": 1732, "productID": [0, 5, 0, 7], "paymentMthd": "Digital wallet", "totalAmt": 2566.04, "invoiceTime": "2024-06-30T08:28:43.508708"}
+{"orderID": 35600, "customerID": 1398, "productID": [3, 16], "paymentMthd": "Debit card", "totalAmt": 3450.3, "invoiceTime": "2024-06-30T08:28:43.508722"}
+{"orderID": 35800, "customerID": 1640, "productID": [19, 17, 3, 6, 15], "paymentMthd": "Credit card", "totalAmt": 4514.14, "invoiceTime": "2024-06-30T08:28:43.508735"}
+{"orderID": 36000, "customerID": 1252, "productID": [14, 5], "paymentMthd": "Cryptocurrency", "totalAmt": 665.39, "invoiceTime": "2024-06-30T08:28:43.508743"}
+{"orderID": 36200, "customerID": 1780, "productID": [18, 10, 13, 4, 8], "paymentMthd": "Credit card", "totalAmt": 4266.64, "invoiceTime": "2024-06-30T08:28:43.508756"}
+{"orderID": 36400, "customerID": 1304, "productID": [13, 13, 18], "paymentMthd": "Debit card", "totalAmt": 4724.36, "invoiceTime": "2024-06-30T08:28:43.508766"}
+{"orderID": 36600, "customerID": 1191, "productID": [0, 12], "paymentMthd": "Digital wallet", "totalAmt": 2525.17, "invoiceTime": "2024-06-30T08:28:43.508774"}
+{"orderID": 36800, "customerID": 1905, "productID": [10, 17, 12, 12], "paymentMthd": "Credit card", "totalAmt": 2852.52, "invoiceTime": "2024-06-30T08:28:43.508782"}
+{"orderID": 37000, "customerID": 1114, "productID": [1, 4], "paymentMthd": "Credit card", "totalAmt": 2246.28, "invoiceTime": "2024-06-30T08:28:43.508790"}
+{"orderID": 37200, "customerID": 1653, "productID": [7, 19, 2, 11], "paymentMthd": "Digital wallet", "totalAmt": 2643.43, "invoiceTime": "2024-06-30T08:28:43.508798"}
+{"orderID": 37400, "customerID": 1559, "productID": [19, 15, 4, 13], "paymentMthd": "Digital wallet", "totalAmt": 4093.31, "invoiceTime": "2024-06-30T08:28:43.508806"}
+{"orderID": 37600, "customerID": 1402, "productID": [7, 11, 12, 6, 19], "paymentMthd": "Cryptocurrency", "totalAmt": 3216.64, "invoiceTime": "2024-06-30T08:28:43.508819"}
+{"orderID": 37800, "customerID": 1517, "productID": [1], "paymentMthd": "Digital wallet", "totalAmt": 1964.22, "invoiceTime": "2024-06-30T08:28:43.508827"}
+{"orderID": 38000, "customerID": 1895, "productID": [5], "paymentMthd": "Cryptocurrency", "totalAmt": 4289.67, "invoiceTime": "2024-06-30T08:28:43.508835"}
+{"orderID": 38200, "customerID": 1187, "productID": [12], "paymentMthd": "Credit card", "totalAmt": 3660.96, "invoiceTime": "2024-06-30T08:28:43.508843"}
+{"orderID": 38400, "customerID": 1842, "productID": [13, 19, 4, 4], "paymentMthd": "Credit card", "totalAmt": 1311.72, "invoiceTime": "2024-06-30T08:28:43.508851"}
+{"orderID": 38600, "customerID": 1978, "productID": [0, 4, 10], "paymentMthd": "Debit card", "totalAmt": 2099.43, "invoiceTime": "2024-06-30T08:28:43.508859"}
+{"orderID": 38800, "customerID": 1519, "productID": [12, 2], "paymentMthd": "Cryptocurrency", "totalAmt": 4709.3, "invoiceTime": "2024-06-30T08:28:43.508867"}
+{"orderID": 39000, "customerID": 1279, "productID": [3, 9], "paymentMthd": "Debit card", "totalAmt": 3674.46, "invoiceTime": "2024-06-30T08:28:43.508875"}
+{"orderID": 39200, "customerID": 1123, "productID": [18, 11, 10, 17, 4], "paymentMthd": "Cash on delivery", "totalAmt": 4474.89, "invoiceTime": "2024-06-30T08:28:43.508883"}
+{"orderID": 39400, "customerID": 1271, "productID": [6, 16, 9], "paymentMthd": "Cryptocurrency", "totalAmt": 859.36, "invoiceTime": "2024-06-30T08:28:43.508891"}
+{"orderID": 39600, "customerID": 1361, "productID": [13, 1, 4, 2, 15], "paymentMthd": "Cash on delivery", "totalAmt": 4387.19, "invoiceTime": "2024-06-30T08:28:43.508900"}
+{"orderID": 39800, "customerID": 1119, "productID": [2, 5, 0], "paymentMthd": "Cash on delivery", "totalAmt": 2304.53, "invoiceTime": "2024-06-30T08:28:43.508908"}
+{"orderID": 40000, "customerID": 1582, "productID": [18, 17, 1], "paymentMthd": "Cryptocurrency", "totalAmt": 4443.38, "invoiceTime": "2024-06-30T08:28:43.508916"}
+{"orderID": 40200, "customerID": 1242, "productID": [3, 12, 8], "paymentMthd": "Digital wallet", "totalAmt": 4448.97, "invoiceTime": "2024-06-30T08:28:43.508954"}
+{"orderID": 40400, "customerID": 1796, "productID": [6, 6], "paymentMthd": "Digital wallet", "totalAmt": 3487.15, "invoiceTime": "2024-06-30T08:28:43.508963"}
+{"orderID": 40600, "customerID": 1532, "productID": [17, 2, 5, 8, 17], "paymentMthd": "Digital wallet", "totalAmt": 2505.5, "invoiceTime": "2024-06-30T08:28:43.508971"}
+{"orderID": 40800, "customerID": 1844, "productID": [10, 2], "paymentMthd": "Credit card", "totalAmt": 2251.38, "invoiceTime": "2024-06-30T08:28:43.508979"}
+{"orderID": 41000, "customerID": 1813, "productID": [0], "paymentMthd": "Cash on delivery", "totalAmt": 159.61, "invoiceTime": "2024-06-30T08:28:43.508991"}
+{"orderID": 41200, "customerID": 1636, "productID": [5, 5, 13, 17, 15], "paymentMthd": "Cryptocurrency", "totalAmt": 2395.63, "invoiceTime": "2024-06-30T08:28:43.509005"}
+{"orderID": 41400, "customerID": 1498, "productID": [1, 11, 16, 10, 4], "paymentMthd": "Digital wallet", "totalAmt": 2673.33, "invoiceTime": "2024-06-30T08:28:43.509014"}
+{"orderID": 41600, "customerID": 1291, "productID": [15, 14], "paymentMthd": "Cash on delivery", "totalAmt": 201.24, "invoiceTime": "2024-06-30T08:28:43.509022"}
+{"orderID": 41800, "customerID": 1934, "productID": [14, 10, 12, 17], "paymentMthd": "Credit card", "totalAmt": 3441.68, "invoiceTime": "2024-06-30T08:28:43.509030"}
+{"orderID": 42000, "customerID": 1209, "productID": [18, 9], "paymentMthd": "Digital wallet", "totalAmt": 1519.34, "invoiceTime": "2024-06-30T08:28:43.509038"}
+{"orderID": 42200, "customerID": 1478, "productID": [13, 9, 14, 4], "paymentMthd": "Digital wallet", "totalAmt": 4641.48, "invoiceTime": "2024-06-30T08:28:43.509047"}
+{"orderID": 42400, "customerID": 1497, "productID": [9, 19, 3], "paymentMthd": "Digital wallet", "totalAmt": 4675.03, "invoiceTime": "2024-06-30T08:28:43.509055"}
+{"orderID": 42600, "customerID": 1645, "productID": [2, 11, 6, 19, 5], "paymentMthd": "Credit card", "totalAmt": 3957.52, "invoiceTime": "2024-06-30T08:28:43.509062"}
+{"orderID": 42800, "customerID": 1332, "productID": [19, 4, 10, 2, 12], "paymentMthd": "Debit card", "totalAmt": 1536.06, "invoiceTime": "2024-06-30T08:28:43.509075"}
+{"orderID": 43000, "customerID": 1100, "productID": [3, 9], "paymentMthd": "Digital wallet", "totalAmt": 4130.56, "invoiceTime": "2024-06-30T08:28:43.509084"}
+{"orderID": 43200, "customerID": 1395, "productID": [11, 0, 17], "paymentMthd": "Cryptocurrency", "totalAmt": 1121.24, "invoiceTime": "2024-06-30T08:28:43.509092"}
+{"orderID": 43400, "customerID": 1418, "productID": [2, 1, 14, 18], "paymentMthd": "Debit card", "totalAmt": 3584.44, "invoiceTime": "2024-06-30T08:28:43.509100"}
+{"orderID": 43600, "customerID": 1709, "productID": [13, 0], "paymentMthd": "Cryptocurrency", "totalAmt": 4675.34, "invoiceTime": "2024-06-30T08:28:43.509108"}
+{"orderID": 43800, "customerID": 1887, "productID": [2, 2, 15], "paymentMthd": "Debit card", "totalAmt": 602.22, "invoiceTime": "2024-06-30T08:28:43.509116"}
+{"orderID": 44000, "customerID": 1397, "productID": [17], "paymentMthd": "Cash on delivery", "totalAmt": 3956.43, "invoiceTime": "2024-06-30T08:28:43.509124"}
+{"orderID": 44200, "customerID": 1887, "productID": [13, 3, 0, 10], "paymentMthd": "Debit card", "totalAmt": 2562.1, "invoiceTime": "2024-06-30T08:28:43.509132"}
+{"orderID": 44400, "customerID": 1229, "productID": [10], "paymentMthd": "Credit card", "totalAmt": 2520.7, "invoiceTime": "2024-06-30T08:28:43.509140"}
+{"orderID": 44600, "customerID": 1069, "productID": [10], "paymentMthd": "Debit card", "totalAmt": 3757.92, "invoiceTime": "2024-06-30T08:28:43.509148"}
+{"orderID": 44800, "customerID": 1511, "productID": [14, 1, 15, 3, 2], "paymentMthd": "Credit card", "totalAmt": 4332.16, "invoiceTime": "2024-06-30T08:28:43.509156"}
+{"orderID": 45000, "customerID": 1036, "productID": [10, 17, 10, 3], "paymentMthd": "Digital wallet", "totalAmt": 2345.52, "invoiceTime": "2024-06-30T08:28:43.509164"}
+{"orderID": 45200, "customerID": 1460, "productID": [3, 13, 4, 6, 5], "paymentMthd": "Cash on delivery", "totalAmt": 3601.38, "invoiceTime": "2024-06-30T08:28:43.509172"}
+{"orderID": 45400, "customerID": 1379, "productID": [7, 6, 5, 3], "paymentMthd": "Debit card", "totalAmt": 4179.69, "invoiceTime": "2024-06-30T08:28:43.509186"}
+{"orderID": 45600, "customerID": 1792, "productID": [7, 13, 7, 13], "paymentMthd": "Digital wallet", "totalAmt": 1112.86, "invoiceTime": "2024-06-30T08:28:43.509194"}
+{"orderID": 45800, "customerID": 1221, "productID": [11, 11, 5, 7], "paymentMthd": "Cash on delivery", "totalAmt": 3734.94, "invoiceTime": "2024-06-30T08:28:43.509208"}
+{"orderID": 46000, "customerID": 1396, "productID": [17, 6, 3, 6, 8], "paymentMthd": "Debit card", "totalAmt": 767.93, "invoiceTime": "2024-06-30T08:28:43.509223"}
+{"orderID": 46200, "customerID": 1189, "productID": [6], "paymentMthd": "Cash on delivery", "totalAmt": 3017.6, "invoiceTime": "2024-06-30T08:28:43.509237"}
+{"orderID": 46400, "customerID": 1581, "productID": [3, 4, 18, 11, 18], "paymentMthd": "Cryptocurrency", "totalAmt": 2171.39, "invoiceTime": "2024-06-30T08:28:43.509245"}
+{"orderID": 46600, "customerID": 1565, "productID": [16, 15, 3, 16], "paymentMthd": "Cryptocurrency", "totalAmt": 3681.62, "invoiceTime": "2024-06-30T08:28:43.509253"}
+{"orderID": 46800, "customerID": 1291, "productID": [17, 17, 5, 8, 7], "paymentMthd": "Debit card", "totalAmt": 4814.29, "invoiceTime": "2024-06-30T08:28:43.509261"}
+{"orderID": 47000, "customerID": 1117, "productID": [17], "paymentMthd": "Cash on delivery", "totalAmt": 1123.2, "invoiceTime": "2024-06-30T08:28:43.509269"}
+{"orderID": 47200, "customerID": 1923, "productID": [13, 14, 15], "paymentMthd": "Cryptocurrency", "totalAmt": 1376.25, "invoiceTime": "2024-06-30T08:28:43.509277"}
+{"orderID": 47400, "customerID": 1011, "productID": [10, 10, 0, 11], "paymentMthd": "Debit card", "totalAmt": 3314.05, "invoiceTime": "2024-06-30T08:28:43.509286"}
+{"orderID": 47600, "customerID": 1400, "productID": [10, 4, 14, 14, 19], "paymentMthd": "Debit card", "totalAmt": 1567.4, "invoiceTime": "2024-06-30T08:28:43.509293"}
+{"orderID": 47800, "customerID": 1339, "productID": [3, 5, 10, 12, 19], "paymentMthd": "Credit card", "totalAmt": 2913.95, "invoiceTime": "2024-06-30T08:28:43.509306"}
+{"orderID": 48000, "customerID": 1147, "productID": [0, 9, 8], "paymentMthd": "Credit card", "totalAmt": 3211.55, "invoiceTime": "2024-06-30T08:28:43.509315"}
+{"orderID": 48200, "customerID": 1753, "productID": [8, 10], "paymentMthd": "Credit card", "totalAmt": 2670.67, "invoiceTime": "2024-06-30T08:28:43.509323"}
+{"orderID": 48400, "customerID": 1222, "productID": [10, 6, 6, 9], "paymentMthd": "Cash on delivery", "totalAmt": 2033.89, "invoiceTime": "2024-06-30T08:28:43.509331"}
+{"orderID": 48600, "customerID": 1385, "productID": [1, 5, 9, 8], "paymentMthd": "Cryptocurrency", "totalAmt": 3048.71, "invoiceTime": "2024-06-30T08:28:43.509344"}
+{"orderID": 48800, "customerID": 1909, "productID": [8], "paymentMthd": "Debit card", "totalAmt": 4907.8, "invoiceTime": "2024-06-30T08:28:43.509353"}
+{"orderID": 49000, "customerID": 1545, "productID": [16, 7, 15], "paymentMthd": "Cryptocurrency", "totalAmt": 2151.85, "invoiceTime": "2024-06-30T08:28:43.509361"}
+{"orderID": 49200, "customerID": 1135, "productID": [7], "paymentMthd": "Credit card", "totalAmt": 2839.64, "invoiceTime": "2024-06-30T08:28:43.509369"}
+{"orderID": 49400, "customerID": 1015, "productID": [0, 10, 8], "paymentMthd": "Debit card", "totalAmt": 1564.34, "invoiceTime": "2024-06-30T08:28:43.509377"}
+{"orderID": 49600, "customerID": 1496, "productID": [4, 2, 12, 18], "paymentMthd": "Debit card", "totalAmt": 3211.2, "invoiceTime": "2024-06-30T08:28:43.509385"}
+{"orderID": 49800, "customerID": 1928, "productID": [15, 4], "paymentMthd": "Cash on delivery", "totalAmt": 1995.86, "invoiceTime": "2024-06-30T08:28:43.509393"}
+{"orderID": 50000, "customerID": 1418, "productID": [11, 10, 16], "paymentMthd": "Debit card", "totalAmt": 2645.93, "invoiceTime": "2024-06-30T08:28:43.509401"}
+{"orderID": 50200, "customerID": 1576, "productID": [6], "paymentMthd": "Credit card", "totalAmt": 336.57, "invoiceTime": "2024-06-30T08:28:43.509441"}
+{"orderID": 50400, "customerID": 1526, "productID": [14, 9, 0, 18, 12], "paymentMthd": "Cryptocurrency", "totalAmt": 3595.34, "invoiceTime": "2024-06-30T08:28:43.509450"}
+{"orderID": 50600, "customerID": 1513, "productID": [18, 6, 13], "paymentMthd": "Cryptocurrency", "totalAmt": 133.6, "invoiceTime": "2024-06-30T08:28:43.509463"}
+{"orderID": 50800, "customerID": 1775, "productID": [5, 14, 17, 6, 2], "paymentMthd": "Credit card", "totalAmt": 313.44, "invoiceTime": "2024-06-30T08:28:43.509472"}
+{"orderID": 51000, "customerID": 1754, "productID": [15, 1, 14, 3], "paymentMthd": "Digital wallet", "totalAmt": 2463.04, "invoiceTime": "2024-06-30T08:28:43.509480"}
+{"orderID": 51200, "customerID": 1010, "productID": [11, 1, 4, 7], "paymentMthd": "Credit card", "totalAmt": 3826.42, "invoiceTime": "2024-06-30T08:28:43.509488"}
+{"orderID": 51400, "customerID": 1621, "productID": [6, 17, 2, 15, 19], "paymentMthd": "Cash on delivery", "totalAmt": 2410.35, "invoiceTime": "2024-06-30T08:28:43.509496"}
+{"orderID": 51600, "customerID": 1857, "productID": [9, 11, 14], "paymentMthd": "Debit card", "totalAmt": 544.04, "invoiceTime": "2024-06-30T08:28:43.509504"}
+{"orderID": 51800, "customerID": 1592, "productID": [15], "paymentMthd": "Debit card", "totalAmt": 685.37, "invoiceTime": "2024-06-30T08:28:43.509512"}
+{"orderID": 52000, "customerID": 1108, "productID": [8, 5, 16, 14, 19], "paymentMthd": "Cryptocurrency", "totalAmt": 2560.52, "invoiceTime": "2024-06-30T08:28:43.509521"}
+{"orderID": 52200, "customerID": 1613, "productID": [10, 14, 1, 0], "paymentMthd": "Credit card", "totalAmt": 4903.95, "invoiceTime": "2024-06-30T08:28:43.509529"}
+{"orderID": 52400, "customerID": 1585, "productID": [4, 5], "paymentMthd": "Credit card", "totalAmt": 2077.92, "invoiceTime": "2024-06-30T08:28:43.509542"}
+{"orderID": 52600, "customerID": 1510, "productID": [5, 15, 0], "paymentMthd": "Credit card", "totalAmt": 154.14, "invoiceTime": "2024-06-30T08:28:43.509551"}
+{"orderID": 52800, "customerID": 1562, "productID": [12, 3], "paymentMthd": "Digital wallet", "totalAmt": 423.25, "invoiceTime": "2024-06-30T08:28:43.509563"}
+{"orderID": 53000, "customerID": 1490, "productID": [11, 15, 4], "paymentMthd": "Digital wallet", "totalAmt": 1990.2, "invoiceTime": "2024-06-30T08:28:43.509572"}
+{"orderID": 53200, "customerID": 1111, "productID": [4, 18, 11, 6], "paymentMthd": "Cryptocurrency", "totalAmt": 2267.98, "invoiceTime": "2024-06-30T08:28:43.509580"}
+{"orderID": 53400, "customerID": 1401, "productID": [12], "paymentMthd": "Cash on delivery", "totalAmt": 1265.23, "invoiceTime": "2024-06-30T08:28:43.509588"}
+{"orderID": 53600, "customerID": 1752, "productID": [3, 16, 14, 1], "paymentMthd": "Cash on delivery", "totalAmt": 2987.22, "invoiceTime": "2024-06-30T08:28:43.509596"}
+{"orderID": 53800, "customerID": 1246, "productID": [5, 13], "paymentMthd": "Digital wallet", "totalAmt": 3623.13, "invoiceTime": "2024-06-30T08:28:43.509607"}
+{"orderID": 54000, "customerID": 1014, "productID": [9, 15], "paymentMthd": "Cash on delivery", "totalAmt": 4303.9, "invoiceTime": "2024-06-30T08:28:43.509615"}
+{"orderID": 54200, "customerID": 1716, "productID": [15, 5, 16, 3], "paymentMthd": "Cash on delivery", "totalAmt": 3348.33, "invoiceTime": "2024-06-30T08:28:43.509623"}
+{"orderID": 54400, "customerID": 1257, "productID": [13, 9], "paymentMthd": "Debit card", "totalAmt": 775.31, "invoiceTime": "2024-06-30T08:28:43.509635"}
+{"orderID": 54600, "customerID": 1947, "productID": [15, 18], "paymentMthd": "Credit card", "totalAmt": 1616.82, "invoiceTime": "2024-06-30T08:28:43.509643"}
+{"orderID": 54800, "customerID": 1584, "productID": [8, 4, 9], "paymentMthd": "Debit card", "totalAmt": 3664.64, "invoiceTime": "2024-06-30T08:28:43.509651"}
+{"orderID": 55000, "customerID": 1147, "productID": [7, 7, 5, 4, 2], "paymentMthd": "Cash on delivery", "totalAmt": 840.0, "invoiceTime": "2024-06-30T08:28:43.509663"}
+{"orderID": 55200, "customerID": 1545, "productID": [8], "paymentMthd": "Cash on delivery", "totalAmt": 585.71, "invoiceTime": "2024-06-30T08:28:43.509672"}
+{"orderID": 55400, "customerID": 1069, "productID": [2, 8, 7], "paymentMthd": "Cash on delivery", "totalAmt": 2964.88, "invoiceTime": "2024-06-30T08:28:43.509680"}
+{"orderID": 55600, "customerID": 1646, "productID": [14], "paymentMthd": "Credit card", "totalAmt": 46.94, "invoiceTime": "2024-06-30T08:28:43.509692"}
+{"orderID": 55800, "customerID": 1654, "productID": [13, 14, 4], "paymentMthd": "Debit card", "totalAmt": 3824.16, "invoiceTime": "2024-06-30T08:28:43.509704"}
+{"orderID": 56000, "customerID": 1118, "productID": [10, 11, 5, 8, 15], "paymentMthd": "Credit card", "totalAmt": 4018.45, "invoiceTime": "2024-06-30T08:28:43.509716"}
+{"orderID": 56200, "customerID": 1015, "productID": [1, 14, 8], "paymentMthd": "Digital wallet", "totalAmt": 4600.79, "invoiceTime": "2024-06-30T08:28:43.509725"}
+{"orderID": 56400, "customerID": 1832, "productID": [12], "paymentMthd": "Cryptocurrency", "totalAmt": 3611.25, "invoiceTime": "2024-06-30T08:28:43.509738"}
+{"orderID": 56600, "customerID": 1433, "productID": [4, 18], "paymentMthd": "Cryptocurrency", "totalAmt": 4379.22, "invoiceTime": "2024-06-30T08:28:43.509751"}
+{"orderID": 56800, "customerID": 1269, "productID": [12], "paymentMthd": "Cryptocurrency", "totalAmt": 1313.92, "invoiceTime": "2024-06-30T08:28:43.509759"}
+{"orderID": 57000, "customerID": 1109, "productID": [17, 0, 15, 13, 18], "paymentMthd": "Cash on delivery", "totalAmt": 2328.0, "invoiceTime": "2024-06-30T08:28:43.509768"}
+{"orderID": 57200, "customerID": 1271, "productID": [4], "paymentMthd": "Cryptocurrency", "totalAmt": 738.91, "invoiceTime": "2024-06-30T08:28:43.509780"}
+{"orderID": 57400, "customerID": 1142, "productID": [8, 9, 18, 1, 5], "paymentMthd": "Credit card", "totalAmt": 4722.6, "invoiceTime": "2024-06-30T08:28:43.509789"}
+{"orderID": 57600, "customerID": 1968, "productID": [8], "paymentMthd": "Cryptocurrency", "totalAmt": 4830.73, "invoiceTime": "2024-06-30T08:28:43.509801"}
+{"orderID": 57800, "customerID": 1947, "productID": [9], "paymentMthd": "Cash on delivery", "totalAmt": 4578.2, "invoiceTime": "2024-06-30T08:28:43.509810"}
+{"orderID": 58000, "customerID": 1168, "productID": [2, 9, 6, 16, 5], "paymentMthd": "Digital wallet", "totalAmt": 4146.47, "invoiceTime": "2024-06-30T08:28:43.509822"}
+{"orderID": 58200, "customerID": 1215, "productID": [19], "paymentMthd": "Credit card", "totalAmt": 3396.14, "invoiceTime": "2024-06-30T08:28:43.509831"}
+{"orderID": 58400, "customerID": 1350, "productID": [1, 5, 4], "paymentMthd": "Debit card", "totalAmt": 3532.89, "invoiceTime": "2024-06-30T08:28:43.509838"}
+{"orderID": 58600, "customerID": 1331, "productID": [5], "paymentMthd": "Digital wallet", "totalAmt": 4368.0, "invoiceTime": "2024-06-30T08:28:43.509846"}
+{"orderID": 58800, "customerID": 1903, "productID": [8, 14, 16], "paymentMthd": "Cash on delivery", "totalAmt": 3828.97, "invoiceTime": "2024-06-30T08:28:43.509854"}
+{"orderID": 59000, "customerID": 1402, "productID": [5], "paymentMthd": "Debit card", "totalAmt": 204.86, "invoiceTime": "2024-06-30T08:28:43.509862"}
+{"orderID": 59200, "customerID": 1170, "productID": [12, 4, 7], "paymentMthd": "Cryptocurrency", "totalAmt": 1125.7, "invoiceTime": "2024-06-30T08:28:43.509870"}
+{"orderID": 59400, "customerID": 1926, "productID": [4, 2], "paymentMthd": "Debit card", "totalAmt": 3485.46, "invoiceTime": "2024-06-30T08:28:43.509879"}
+{"orderID": 59600, "customerID": 1983, "productID": [18, 17, 10], "paymentMthd": "Credit card", "totalAmt": 111.39, "invoiceTime": "2024-06-30T08:28:43.509887"}
+{"orderID": 59800, "customerID": 1049, "productID": [4, 16], "paymentMthd": "Cash on delivery", "totalAmt": 851.1, "invoiceTime": "2024-06-30T08:28:43.509895"}
+{"orderID": 60000, "customerID": 1094, "productID": [4, 13], "paymentMthd": "Digital wallet", "totalAmt": 1375.91, "invoiceTime": "2024-06-30T08:28:43.509903"}
+{"orderID": 60200, "customerID": 1403, "productID": [16, 14], "paymentMthd": "Credit card", "totalAmt": 4547.62, "invoiceTime": "2024-06-30T08:28:43.509934"}
+{"orderID": 60400, "customerID": 1984, "productID": [16, 9, 5, 9], "paymentMthd": "Digital wallet", "totalAmt": 3431.77, "invoiceTime": "2024-06-30T08:28:43.509942"}
+{"orderID": 60600, "customerID": 1707, "productID": [18, 13], "paymentMthd": "Digital wallet", "totalAmt": 1781.56, "invoiceTime": "2024-06-30T08:28:43.509950"}
+{"orderID": 60800, "customerID": 1375, "productID": [19, 8, 4, 9, 18], "paymentMthd": "Cash on delivery", "totalAmt": 974.58, "invoiceTime": "2024-06-30T08:28:43.509958"}
+{"orderID": 61000, "customerID": 1665, "productID": [11, 5, 5, 11, 10], "paymentMthd": "Cash on delivery", "totalAmt": 2264.29, "invoiceTime": "2024-06-30T08:28:43.509967"}
+{"orderID": 61200, "customerID": 1259, "productID": [14, 18, 9, 15, 7], "paymentMthd": "Cryptocurrency", "totalAmt": 2445.19, "invoiceTime": "2024-06-30T08:28:43.509975"}
+{"orderID": 61400, "customerID": 1990, "productID": [0], "paymentMthd": "Cryptocurrency", "totalAmt": 2507.83, "invoiceTime": "2024-06-30T08:28:43.509987"}
+{"orderID": 61600, "customerID": 1242, "productID": [1, 5], "paymentMthd": "Cryptocurrency", "totalAmt": 4013.02, "invoiceTime": "2024-06-30T08:28:43.509995"}
+{"orderID": 61800, "customerID": 1845, "productID": [3, 4, 9, 14], "paymentMthd": "Debit card", "totalAmt": 2154.35, "invoiceTime": "2024-06-30T08:28:43.510007"}
+{"orderID": 62000, "customerID": 1270, "productID": [4], "paymentMthd": "Credit card", "totalAmt": 2283.9, "invoiceTime": "2024-06-30T08:28:43.510020"}
+{"orderID": 62200, "customerID": 1005, "productID": [4, 14, 3, 1, 3], "paymentMthd": "Credit card", "totalAmt": 3424.57, "invoiceTime": "2024-06-30T08:28:43.510028"}
+{"orderID": 62400, "customerID": 1290, "productID": [1], "paymentMthd": "Digital wallet", "totalAmt": 3841.96, "invoiceTime": "2024-06-30T08:28:43.510037"}
+{"orderID": 62600, "customerID": 1879, "productID": [9, 2], "paymentMthd": "Digital wallet", "totalAmt": 2762.28, "invoiceTime": "2024-06-30T08:28:43.510044"}
+{"orderID": 62800, "customerID": 1142, "productID": [16, 8, 14], "paymentMthd": "Cryptocurrency", "totalAmt": 4362.1, "invoiceTime": "2024-06-30T08:28:43.510053"}
+{"orderID": 63000, "customerID": 1551, "productID": [10, 7], "paymentMthd": "Digital wallet", "totalAmt": 1621.02, "invoiceTime": "2024-06-30T08:28:43.510061"}
+{"orderID": 63200, "customerID": 1653, "productID": [16, 10, 4, 13], "paymentMthd": "Cryptocurrency", "totalAmt": 3472.36, "invoiceTime": "2024-06-30T08:28:43.510068"}
+{"orderID": 63400, "customerID": 1039, "productID": [8], "paymentMthd": "Debit card", "totalAmt": 992.73, "invoiceTime": "2024-06-30T08:28:43.510077"}
+{"orderID": 63600, "customerID": 1533, "productID": [3, 5, 14], "paymentMthd": "Credit card", "totalAmt": 131.32, "invoiceTime": "2024-06-30T08:28:43.510088"}
+{"orderID": 63800, "customerID": 1112, "productID": [17, 19, 9, 4, 7], "paymentMthd": "Cryptocurrency", "totalAmt": 1204.29, "invoiceTime": "2024-06-30T08:28:43.510096"}
+{"orderID": 64000, "customerID": 1577, "productID": [14], "paymentMthd": "Debit card", "totalAmt": 3389.58, "invoiceTime": "2024-06-30T08:28:43.510108"}
+{"orderID": 64200, "customerID": 1474, "productID": [14, 18], "paymentMthd": "Credit card", "totalAmt": 3690.23, "invoiceTime": "2024-06-30T08:28:43.510120"}
+{"orderID": 64400, "customerID": 1041, "productID": [19, 7, 15], "paymentMthd": "Credit card", "totalAmt": 4975.45, "invoiceTime": "2024-06-30T08:28:43.510133"}
+{"orderID": 64600, "customerID": 1875, "productID": [5, 11], "paymentMthd": "Cryptocurrency", "totalAmt": 3787.61, "invoiceTime": "2024-06-30T08:28:43.510141"}
+{"orderID": 64800, "customerID": 1437, "productID": [19, 14], "paymentMthd": "Digital wallet", "totalAmt": 1173.17, "invoiceTime": "2024-06-30T08:28:43.510154"}
+{"orderID": 65000, "customerID": 1743, "productID": [7, 2], "paymentMthd": "Credit card", "totalAmt": 3380.77, "invoiceTime": "2024-06-30T08:28:43.510162"}
+{"orderID": 65200, "customerID": 1329, "productID": [6], "paymentMthd": "Cryptocurrency", "totalAmt": 3560.94, "invoiceTime": "2024-06-30T08:28:43.510170"}
+{"orderID": 65400, "customerID": 1298, "productID": [0, 13, 2, 9, 3], "paymentMthd": "Digital wallet", "totalAmt": 1572.17, "invoiceTime": "2024-06-30T08:28:43.510183"}
+{"orderID": 65600, "customerID": 1288, "productID": [1, 7, 18, 15, 2], "paymentMthd": "Credit card", "totalAmt": 2624.47, "invoiceTime": "2024-06-30T08:28:43.510191"}
+{"orderID": 65800, "customerID": 1660, "productID": [14, 3, 8], "paymentMthd": "Cryptocurrency", "totalAmt": 2615.26, "invoiceTime": "2024-06-30T08:28:43.510200"}
+{"orderID": 66000, "customerID": 1799, "productID": [17, 16, 11], "paymentMthd": "Cryptocurrency", "totalAmt": 2630.44, "invoiceTime": "2024-06-30T08:28:43.510207"}
+{"orderID": 66200, "customerID": 1338, "productID": [5, 13, 5, 16, 15], "paymentMthd": "Credit card", "totalAmt": 3426.91, "invoiceTime": "2024-06-30T08:28:43.510215"}
+{"orderID": 66400, "customerID": 1076, "productID": [11, 5, 6], "paymentMthd": "Debit card", "totalAmt": 3316.25, "invoiceTime": "2024-06-30T08:28:43.510224"}
+{"orderID": 66600, "customerID": 1870, "productID": [16], "paymentMthd": "Cash on delivery", "totalAmt": 2905.22, "invoiceTime": "2024-06-30T08:28:43.510232"}
+{"orderID": 66800, "customerID": 1312, "productID": [17, 6, 14, 1], "paymentMthd": "Digital wallet", "totalAmt": 1675.41, "invoiceTime": "2024-06-30T08:28:43.510240"}
+{"orderID": 67000, "customerID": 1672, "productID": [9, 9, 7, 2, 14], "paymentMthd": "Credit card", "totalAmt": 1001.38, "invoiceTime": "2024-06-30T08:28:43.510248"}
+{"orderID": 67200, "customerID": 1620, "productID": [6, 5, 12, 8], "paymentMthd": "Credit card", "totalAmt": 4278.43, "invoiceTime": "2024-06-30T08:28:43.510261"}
+{"orderID": 67400, "customerID": 1584, "productID": [17, 17], "paymentMthd": "Credit card", "totalAmt": 2770.77, "invoiceTime": "2024-06-30T08:28:43.510270"}
+{"orderID": 67600, "customerID": 1037, "productID": [4, 3], "paymentMthd": "Digital wallet", "totalAmt": 3068.17, "invoiceTime": "2024-06-30T08:28:43.510283"}
+{"orderID": 67800, "customerID": 1419, "productID": [14, 1], "paymentMthd": "Cash on delivery", "totalAmt": 1893.31, "invoiceTime": "2024-06-30T08:28:43.510291"}
+{"orderID": 68000, "customerID": 1121, "productID": [15, 10, 1], "paymentMthd": "Cryptocurrency", "totalAmt": 3720.71, "invoiceTime": "2024-06-30T08:28:43.510304"}
+{"orderID": 68200, "customerID": 1815, "productID": [17, 1], "paymentMthd": "Credit card", "totalAmt": 1369.3, "invoiceTime": "2024-06-30T08:28:43.510313"}
+{"orderID": 68400, "customerID": 1868, "productID": [12], "paymentMthd": "Cash on delivery", "totalAmt": 4217.13, "invoiceTime": "2024-06-30T08:28:43.510321"}
+{"orderID": 68600, "customerID": 1216, "productID": [14], "paymentMthd": "Cryptocurrency", "totalAmt": 3901.56, "invoiceTime": "2024-06-30T08:28:43.510334"}
+{"orderID": 68800, "customerID": 1089, "productID": [0, 8, 9], "paymentMthd": "Debit card", "totalAmt": 1638.03, "invoiceTime": "2024-06-30T08:28:43.510343"}
+{"orderID": 69000, "customerID": 1725, "productID": [2, 5, 0, 10, 15], "paymentMthd": "Credit card", "totalAmt": 1332.08, "invoiceTime": "2024-06-30T08:28:43.510357"}
+{"orderID": 69200, "customerID": 1373, "productID": [0, 0, 4, 5], "paymentMthd": "Cash on delivery", "totalAmt": 389.64, "invoiceTime": "2024-06-30T08:28:43.510371"}
+{"orderID": 69400, "customerID": 1777, "productID": [5, 5, 2, 18, 16], "paymentMthd": "Cryptocurrency", "totalAmt": 1258.19, "invoiceTime": "2024-06-30T08:28:43.510379"}
+{"orderID": 69600, "customerID": 1409, "productID": [8, 16, 2, 13, 18], "paymentMthd": "Digital wallet", "totalAmt": 1320.04, "invoiceTime": "2024-06-30T08:28:43.510393"}
+{"orderID": 69800, "customerID": 1140, "productID": [14, 6, 17, 2, 12], "paymentMthd": "Cryptocurrency", "totalAmt": 2430.94, "invoiceTime": "2024-06-30T08:28:43.510401"}
+{"orderID": 70000, "customerID": 1412, "productID": [16, 3, 2, 11], "paymentMthd": "Debit card", "totalAmt": 729.05, "invoiceTime": "2024-06-30T08:28:43.510415"}
+{"orderID": 70200, "customerID": 1926, "productID": [15], "paymentMthd": "Credit card", "totalAmt": 2725.96, "invoiceTime": "2024-06-30T08:28:43.510449"}
+{"orderID": 70400, "customerID": 1274, "productID": [19, 12, 1], "paymentMthd": "Cryptocurrency", "totalAmt": 4575.71, "invoiceTime": "2024-06-30T08:28:43.510457"}
+{"orderID": 70600, "customerID": 1873, "productID": [0, 5, 0, 9], "paymentMthd": "Credit card", "totalAmt": 41.32, "invoiceTime": "2024-06-30T08:28:43.510465"}
+{"orderID": 70800, "customerID": 1292, "productID": [9, 8], "paymentMthd": "Debit card", "totalAmt": 417.06, "invoiceTime": "2024-06-30T08:28:43.510473"}
+{"orderID": 71000, "customerID": 1147, "productID": [3, 16], "paymentMthd": "Digital wallet", "totalAmt": 2755.29, "invoiceTime": "2024-06-30T08:28:43.510481"}
+{"orderID": 71200, "customerID": 1021, "productID": [16, 10, 18], "paymentMthd": "Credit card", "totalAmt": 2785.29, "invoiceTime": "2024-06-30T08:28:43.510489"}
+{"orderID": 71400, "customerID": 1975, "productID": [1, 14, 18], "paymentMthd": "Credit card", "totalAmt": 4404.32, "invoiceTime": "2024-06-30T08:28:43.510502"}
+{"orderID": 71600, "customerID": 1880, "productID": [18], "paymentMthd": "Debit card", "totalAmt": 4395.43, "invoiceTime": "2024-06-30T08:28:43.510511"}
+{"orderID": 71800, "customerID": 1780, "productID": [7], "paymentMthd": "Credit card", "totalAmt": 4804.16, "invoiceTime": "2024-06-30T08:28:43.510519"}
+{"orderID": 72000, "customerID": 1269, "productID": [14, 15, 5, 2, 18], "paymentMthd": "Cash on delivery", "totalAmt": 2320.57, "invoiceTime": "2024-06-30T08:28:43.510527"}
+{"orderID": 72200, "customerID": 1635, "productID": [7, 3, 6, 8], "paymentMthd": "Credit card", "totalAmt": 4345.74, "invoiceTime": "2024-06-30T08:28:43.510535"}
+{"orderID": 72400, "customerID": 1708, "productID": [7, 14, 9], "paymentMthd": "Digital wallet", "totalAmt": 2423.5, "invoiceTime": "2024-06-30T08:28:43.510543"}
+{"orderID": 72600, "customerID": 1375, "productID": [13], "paymentMthd": "Cash on delivery", "totalAmt": 2547.74, "invoiceTime": "2024-06-30T08:28:43.510551"}
+{"orderID": 72800, "customerID": 1808, "productID": [17, 13, 17, 14], "paymentMthd": "Credit card", "totalAmt": 1078.11, "invoiceTime": "2024-06-30T08:28:43.510559"}
+{"orderID": 73000, "customerID": 1696, "productID": [3, 12], "paymentMthd": "Digital wallet", "totalAmt": 3285.83, "invoiceTime": "2024-06-30T08:28:43.510567"}
+{"orderID": 73200, "customerID": 1983, "productID": [18, 18, 11, 13, 10], "paymentMthd": "Digital wallet", "totalAmt": 2397.48, "invoiceTime": "2024-06-30T08:28:43.510575"}
+{"orderID": 73400, "customerID": 1604, "productID": [12, 13], "paymentMthd": "Cryptocurrency", "totalAmt": 89.84, "invoiceTime": "2024-06-30T08:28:43.510583"}
+{"orderID": 73600, "customerID": 1292, "productID": [19, 12, 5], "paymentMthd": "Cryptocurrency", "totalAmt": 3890.78, "invoiceTime": "2024-06-30T08:28:43.510591"}
+{"orderID": 73800, "customerID": 1532, "productID": [12], "paymentMthd": "Debit card", "totalAmt": 4632.79, "invoiceTime": "2024-06-30T08:28:43.510599"}
+{"orderID": 74000, "customerID": 1085, "productID": [13, 3, 6], "paymentMthd": "Digital wallet", "totalAmt": 2106.98, "invoiceTime": "2024-06-30T08:28:43.510607"}
+{"orderID": 74200, "customerID": 1040, "productID": [17, 11, 3, 4], "paymentMthd": "Digital wallet", "totalAmt": 385.83, "invoiceTime": "2024-06-30T08:28:43.510619"}
+{"orderID": 74400, "customerID": 1394, "productID": [12], "paymentMthd": "Digital wallet", "totalAmt": 1481.19, "invoiceTime": "2024-06-30T08:28:43.510628"}
+{"orderID": 74600, "customerID": 1227, "productID": [16, 0], "paymentMthd": "Digital wallet", "totalAmt": 3283.57, "invoiceTime": "2024-06-30T08:28:43.510635"}
+{"orderID": 74800, "customerID": 1456, "productID": [9, 12, 11, 18, 9], "paymentMthd": "Credit card", "totalAmt": 4991.19, "invoiceTime": "2024-06-30T08:28:43.510643"}
+{"orderID": 75000, "customerID": 1680, "productID": [4, 6, 5], "paymentMthd": "Digital wallet", "totalAmt": 2989.52, "invoiceTime": "2024-06-30T08:28:43.510651"}
+{"orderID": 75200, "customerID": 1195, "productID": [6, 3, 7], "paymentMthd": "Credit card", "totalAmt": 121.31, "invoiceTime": "2024-06-30T08:28:43.510659"}
+{"orderID": 75400, "customerID": 1756, "productID": [7, 15, 8, 13], "paymentMthd": "Cash on delivery", "totalAmt": 4159.31, "invoiceTime": "2024-06-30T08:28:43.510667"}
+{"orderID": 75600, "customerID": 1191, "productID": [14, 6, 2, 16], "paymentMthd": "Cryptocurrency", "totalAmt": 40.72, "invoiceTime": "2024-06-30T08:28:43.510675"}
+{"orderID": 75800, "customerID": 1220, "productID": [2, 0, 12, 0, 19], "paymentMthd": "Cash on delivery", "totalAmt": 1990.87, "invoiceTime": "2024-06-30T08:28:43.510683"}
+{"orderID": 76000, "customerID": 1817, "productID": [1, 2, 17, 15, 14], "paymentMthd": "Cash on delivery", "totalAmt": 3006.22, "invoiceTime": "2024-06-30T08:28:43.510697"}
+{"orderID": 76200, "customerID": 1230, "productID": [16, 9, 2], "paymentMthd": "Credit card", "totalAmt": 213.38, "invoiceTime": "2024-06-30T08:28:43.510710"}
+{"orderID": 76400, "customerID": 1749, "productID": [6, 3], "paymentMthd": "Cryptocurrency", "totalAmt": 257.37, "invoiceTime": "2024-06-30T08:28:43.510724"}
+{"orderID": 76600, "customerID": 1291, "productID": [4, 10], "paymentMthd": "Cryptocurrency", "totalAmt": 579.16, "invoiceTime": "2024-06-30T08:28:43.510732"}
+{"orderID": 76800, "customerID": 1780, "productID": [2, 15], "paymentMthd": "Digital wallet", "totalAmt": 3312.02, "invoiceTime": "2024-06-30T08:28:43.510740"}
+{"orderID": 77000, "customerID": 1165, "productID": [19, 10], "paymentMthd": "Digital wallet", "totalAmt": 3989.33, "invoiceTime": "2024-06-30T08:28:43.510748"}
+{"orderID": 77200, "customerID": 1872, "productID": [14], "paymentMthd": "Cryptocurrency", "totalAmt": 4132.57, "invoiceTime": "2024-06-30T08:28:43.510756"}
+{"orderID": 77400, "customerID": 1136, "productID": [3, 1, 18, 8, 16], "paymentMthd": "Cryptocurrency", "totalAmt": 2328.35, "invoiceTime": "2024-06-30T08:28:43.510764"}
+{"orderID": 77600, "customerID": 1366, "productID": [0, 9, 18, 15, 14], "paymentMthd": "Credit card", "totalAmt": 873.51, "invoiceTime": "2024-06-30T08:28:43.510772"}
+{"orderID": 77800, "customerID": 1280, "productID": [7, 17], "paymentMthd": "Debit card", "totalAmt": 3499.69, "invoiceTime": "2024-06-30T08:28:43.510780"}
+{"orderID": 78000, "customerID": 1390, "productID": [9, 0, 9, 3, 17], "paymentMthd": "Digital wallet", "totalAmt": 1017.93, "invoiceTime": "2024-06-30T08:28:43.510788"}
+{"orderID": 78200, "customerID": 1677, "productID": [14, 4, 2], "paymentMthd": "Digital wallet", "totalAmt": 3238.89, "invoiceTime": "2024-06-30T08:28:43.510796"}
+{"orderID": 78400, "customerID": 1329, "productID": [3, 16, 11, 1], "paymentMthd": "Debit card", "totalAmt": 233.81, "invoiceTime": "2024-06-30T08:28:43.510804"}
+{"orderID": 78600, "customerID": 1524, "productID": [17, 0, 10], "paymentMthd": "Debit card", "totalAmt": 521.99, "invoiceTime": "2024-06-30T08:28:43.510817"}
+{"orderID": 78800, "customerID": 1253, "productID": [12, 14, 14, 16], "paymentMthd": "Digital wallet", "totalAmt": 2854.15, "invoiceTime": "2024-06-30T08:28:43.510825"}
+{"orderID": 79000, "customerID": 1892, "productID": [9, 14, 0, 7, 16], "paymentMthd": "Credit card", "totalAmt": 4518.78, "invoiceTime": "2024-06-30T08:28:43.510838"}
+{"orderID": 79200, "customerID": 1361, "productID": [16, 5], "paymentMthd": "Cryptocurrency", "totalAmt": 1136.65, "invoiceTime": "2024-06-30T08:28:43.510851"}
+{"orderID": 79400, "customerID": 1925, "productID": [13, 14, 18, 17], "paymentMthd": "Cryptocurrency", "totalAmt": 1933.86, "invoiceTime": "2024-06-30T08:28:43.510860"}
+{"orderID": 79600, "customerID": 1189, "productID": [9, 8, 14], "paymentMthd": "Digital wallet", "totalAmt": 4637.75, "invoiceTime": "2024-06-30T08:28:43.510868"}
+{"orderID": 79800, "customerID": 1047, "productID": [1], "paymentMthd": "Cryptocurrency", "totalAmt": 3691.41, "invoiceTime": "2024-06-30T08:28:43.510880"}
+{"orderID": 80000, "customerID": 1564, "productID": [5, 11], "paymentMthd": "Debit card", "totalAmt": 523.33, "invoiceTime": "2024-06-30T08:28:43.510888"}
+{"orderID": 80200, "customerID": 1691, "productID": [2], "paymentMthd": "Credit card", "totalAmt": 2753.42, "invoiceTime": "2024-06-30T08:28:43.510923"}
+{"orderID": 80400, "customerID": 1291, "productID": [10, 11, 12], "paymentMthd": "Digital wallet", "totalAmt": 4451.29, "invoiceTime": "2024-06-30T08:28:43.510931"}
+{"orderID": 80600, "customerID": 1445, "productID": [17, 15], "paymentMthd": "Cryptocurrency", "totalAmt": 102.38, "invoiceTime": "2024-06-30T08:28:43.510939"}
+{"orderID": 80800, "customerID": 1863, "productID": [2, 3, 18, 1, 4], "paymentMthd": "Cash on delivery", "totalAmt": 3273.41, "invoiceTime": "2024-06-30T08:28:43.510947"}
+{"orderID": 81000, "customerID": 1428, "productID": [10, 11], "paymentMthd": "Digital wallet", "totalAmt": 3275.18, "invoiceTime": "2024-06-30T08:28:43.510959"}
+{"orderID": 81200, "customerID": 1808, "productID": [7, 0, 6, 15, 12], "paymentMthd": "Debit card", "totalAmt": 3408.26, "invoiceTime": "2024-06-30T08:28:43.510972"}
+{"orderID": 81400, "customerID": 1105, "productID": [16, 0, 3, 12, 8], "paymentMthd": "Credit card", "totalAmt": 3735.88, "invoiceTime": "2024-06-30T08:28:43.510984"}
+{"orderID": 81600, "customerID": 1777, "productID": [1, 17, 15, 5], "paymentMthd": "Digital wallet", "totalAmt": 3617.04, "invoiceTime": "2024-06-30T08:28:43.510992"}
+{"orderID": 81800, "customerID": 1352, "productID": [10, 15, 13], "paymentMthd": "Debit card", "totalAmt": 515.39, "invoiceTime": "2024-06-30T08:28:43.511001"}
+{"orderID": 82000, "customerID": 1239, "productID": [13, 16, 5, 16, 0], "paymentMthd": "Cryptocurrency", "totalAmt": 3921.45, "invoiceTime": "2024-06-30T08:28:43.511012"}
+{"orderID": 82200, "customerID": 1275, "productID": [17, 19, 3, 10], "paymentMthd": "Credit card", "totalAmt": 750.48, "invoiceTime": "2024-06-30T08:28:43.511025"}
+{"orderID": 82400, "customerID": 1257, "productID": [12, 13], "paymentMthd": "Digital wallet", "totalAmt": 1182.77, "invoiceTime": "2024-06-30T08:28:43.511038"}
+{"orderID": 82600, "customerID": 1829, "productID": [12, 17, 6, 3, 6], "paymentMthd": "Credit card", "totalAmt": 4963.99, "invoiceTime": "2024-06-30T08:28:43.511050"}
+{"orderID": 82800, "customerID": 1332, "productID": [3], "paymentMthd": "Digital wallet", "totalAmt": 1232.2, "invoiceTime": "2024-06-30T08:28:43.511058"}
+{"orderID": 83000, "customerID": 1021, "productID": [9], "paymentMthd": "Cash on delivery", "totalAmt": 1032.94, "invoiceTime": "2024-06-30T08:28:43.511066"}
+{"orderID": 83200, "customerID": 1176, "productID": [10, 11, 11, 8, 18], "paymentMthd": "Cryptocurrency", "totalAmt": 895.91, "invoiceTime": "2024-06-30T08:28:43.511077"}
+{"orderID": 83400, "customerID": 1720, "productID": [17], "paymentMthd": "Credit card", "totalAmt": 3224.82, "invoiceTime": "2024-06-30T08:28:43.511086"}
+{"orderID": 83600, "customerID": 1227, "productID": [2], "paymentMthd": "Digital wallet", "totalAmt": 669.93, "invoiceTime": "2024-06-30T08:28:43.511094"}
+{"orderID": 83800, "customerID": 1724, "productID": [9, 9, 6], "paymentMthd": "Cryptocurrency", "totalAmt": 1764.84, "invoiceTime": "2024-06-30T08:28:43.511102"}
+{"orderID": 84000, "customerID": 1925, "productID": [8, 7, 10], "paymentMthd": "Digital wallet", "totalAmt": 722.93, "invoiceTime": "2024-06-30T08:28:43.511110"}
+{"orderID": 84200, "customerID": 1974, "productID": [14, 11, 0, 13], "paymentMthd": "Digital wallet", "totalAmt": 1629.86, "invoiceTime": "2024-06-30T08:28:43.511122"}
+{"orderID": 84400, "customerID": 1735, "productID": [15, 8, 1, 14], "paymentMthd": "Cryptocurrency", "totalAmt": 3879.43, "invoiceTime": "2024-06-30T08:28:43.511134"}
+{"orderID": 84600, "customerID": 1076, "productID": [0, 8, 19, 12], "paymentMthd": "Debit card", "totalAmt": 4122.52, "invoiceTime": "2024-06-30T08:28:43.511142"}
+{"orderID": 84800, "customerID": 1443, "productID": [10], "paymentMthd": "Credit card", "totalAmt": 92.27, "invoiceTime": "2024-06-30T08:28:43.511150"}
+{"orderID": 85000, "customerID": 1598, "productID": [8], "paymentMthd": "Cash on delivery", "totalAmt": 2575.12, "invoiceTime": "2024-06-30T08:28:43.511158"}
+{"orderID": 85200, "customerID": 1997, "productID": [5, 5, 18, 8], "paymentMthd": "Credit card", "totalAmt": 670.58, "invoiceTime": "2024-06-30T08:28:43.511166"}
+{"orderID": 85400, "customerID": 1018, "productID": [4, 13, 5, 4], "paymentMthd": "Cryptocurrency", "totalAmt": 3152.6, "invoiceTime": "2024-06-30T08:28:43.511174"}
+{"orderID": 85600, "customerID": 1700, "productID": [3, 5, 15], "paymentMthd": "Cryptocurrency", "totalAmt": 273.14, "invoiceTime": "2024-06-30T08:28:43.511182"}
+{"orderID": 85800, "customerID": 1382, "productID": [9, 10, 11], "paymentMthd": "Cryptocurrency", "totalAmt": 3181.27, "invoiceTime": "2024-06-30T08:28:43.511190"}
+{"orderID": 86000, "customerID": 1712, "productID": [8], "paymentMthd": "Debit card", "totalAmt": 776.45, "invoiceTime": "2024-06-30T08:28:43.511201"}
+{"orderID": 86200, "customerID": 1876, "productID": [14, 19, 6, 3], "paymentMthd": "Digital wallet", "totalAmt": 2593.49, "invoiceTime": "2024-06-30T08:28:43.511210"}
+{"orderID": 86400, "customerID": 1274, "productID": [19, 1, 18, 9], "paymentMthd": "Digital wallet", "totalAmt": 2605.14, "invoiceTime": "2024-06-30T08:28:43.511221"}
+{"orderID": 86600, "customerID": 1827, "productID": [0, 12, 4], "paymentMthd": "Cash on delivery", "totalAmt": 1804.22, "invoiceTime": "2024-06-30T08:28:43.511230"}
+{"orderID": 86800, "customerID": 1635, "productID": [10, 5], "paymentMthd": "Cash on delivery", "totalAmt": 446.16, "invoiceTime": "2024-06-30T08:28:43.511242"}
+{"orderID": 87000, "customerID": 1333, "productID": [18, 5, 18], "paymentMthd": "Credit card", "totalAmt": 4411.11, "invoiceTime": "2024-06-30T08:28:43.511251"}
+{"orderID": 87200, "customerID": 1379, "productID": [0, 15, 11], "paymentMthd": "Digital wallet", "totalAmt": 3823.3, "invoiceTime": "2024-06-30T08:28:43.511259"}
+{"orderID": 87400, "customerID": 1445, "productID": [0, 18, 2, 13, 11], "paymentMthd": "Debit card", "totalAmt": 1726.11, "invoiceTime": "2024-06-30T08:28:43.511266"}
+{"orderID": 87600, "customerID": 1151, "productID": [15, 8, 16], "paymentMthd": "Debit card", "totalAmt": 3220.87, "invoiceTime": "2024-06-30T08:28:43.511275"}
+{"orderID": 87800, "customerID": 1923, "productID": [4, 19], "paymentMthd": "Digital wallet", "totalAmt": 1619.35, "invoiceTime": "2024-06-30T08:28:43.511287"}
+{"orderID": 88000, "customerID": 1407, "productID": [17, 12, 15], "paymentMthd": "Credit card", "totalAmt": 1854.07, "invoiceTime": "2024-06-30T08:28:43.511296"}
+{"orderID": 88200, "customerID": 1158, "productID": [19, 4, 16, 0], "paymentMthd": "Debit card", "totalAmt": 164.14, "invoiceTime": "2024-06-30T08:28:43.511304"}
+{"orderID": 88400, "customerID": 1802, "productID": [17, 7], "paymentMthd": "Debit card", "totalAmt": 1074.04, "invoiceTime": "2024-06-30T08:28:43.511317"}
+{"orderID": 88600, "customerID": 1363, "productID": [3], "paymentMthd": "Credit card", "totalAmt": 4801.97, "invoiceTime": "2024-06-30T08:28:43.511325"}
+{"orderID": 88800, "customerID": 1269, "productID": [9, 7, 5, 13], "paymentMthd": "Digital wallet", "totalAmt": 3139.34, "invoiceTime": "2024-06-30T08:28:43.511333"}
+{"orderID": 89000, "customerID": 1268, "productID": [18], "paymentMthd": "Cash on delivery", "totalAmt": 3511.12, "invoiceTime": "2024-06-30T08:28:43.511346"}
+{"orderID": 89200, "customerID": 1396, "productID": [17, 5, 7], "paymentMthd": "Cryptocurrency", "totalAmt": 1836.93, "invoiceTime": "2024-06-30T08:28:43.511354"}
+{"orderID": 89400, "customerID": 1776, "productID": [8], "paymentMthd": "Credit card", "totalAmt": 3085.11, "invoiceTime": "2024-06-30T08:28:43.511362"}
+{"orderID": 89600, "customerID": 1182, "productID": [2, 16, 7, 12], "paymentMthd": "Digital wallet", "totalAmt": 4368.36, "invoiceTime": "2024-06-30T08:28:43.511370"}
+{"orderID": 89800, "customerID": 1086, "productID": [7, 17, 10, 10, 12], "paymentMthd": "Credit card", "totalAmt": 3250.15, "invoiceTime": "2024-06-30T08:28:43.511378"}
+{"orderID": 90000, "customerID": 1469, "productID": [4, 18, 3, 10, 8], "paymentMthd": "Cryptocurrency", "totalAmt": 3553.61, "invoiceTime": "2024-06-30T08:28:43.511386"}
+{"orderID": 90200, "customerID": 1401, "productID": [11, 17, 3, 2, 11], "paymentMthd": "Debit card", "totalAmt": 374.15, "invoiceTime": "2024-06-30T08:28:43.511419"}
+{"orderID": 90400, "customerID": 1356, "productID": [15], "paymentMthd": "Credit card", "totalAmt": 1840.09, "invoiceTime": "2024-06-30T08:28:43.511428"}
+{"orderID": 90600, "customerID": 1150, "productID": [17, 17, 16, 15], "paymentMthd": "Digital wallet", "totalAmt": 902.49, "invoiceTime": "2024-06-30T08:28:43.511441"}
+{"orderID": 90800, "customerID": 1380, "productID": [3, 14, 12, 9], "paymentMthd": "Cryptocurrency", "totalAmt": 1184.53, "invoiceTime": "2024-06-30T08:28:43.511453"}
+{"orderID": 91000, "customerID": 1554, "productID": [16, 16, 10, 0], "paymentMthd": "Debit card", "totalAmt": 4888.23, "invoiceTime": "2024-06-30T08:28:43.511462"}
+{"orderID": 91200, "customerID": 1610, "productID": [6, 8, 11, 8], "paymentMthd": "Cash on delivery", "totalAmt": 277.81, "invoiceTime": "2024-06-30T08:28:43.511470"}
+{"orderID": 91400, "customerID": 1572, "productID": [1, 16, 11], "paymentMthd": "Credit card", "totalAmt": 2807.01, "invoiceTime": "2024-06-30T08:28:43.511478"}
+{"orderID": 91600, "customerID": 1624, "productID": [6, 12, 4, 2, 19], "paymentMthd": "Credit card", "totalAmt": 4412.04, "invoiceTime": "2024-06-30T08:28:43.511490"}
+{"orderID": 91800, "customerID": 1037, "productID": [7, 5, 15], "paymentMthd": "Debit card", "totalAmt": 4206.86, "invoiceTime": "2024-06-30T08:28:43.511503"}
+{"orderID": 92000, "customerID": 1479, "productID": [1, 8, 7, 15], "paymentMthd": "Cryptocurrency", "totalAmt": 4596.09, "invoiceTime": "2024-06-30T08:28:43.511515"}
+{"orderID": 92200, "customerID": 1182, "productID": [16, 16, 5, 19, 0], "paymentMthd": "Cryptocurrency", "totalAmt": 3396.75, "invoiceTime": "2024-06-30T08:28:43.511523"}
+{"orderID": 92400, "customerID": 1046, "productID": [6, 13], "paymentMthd": "Debit card", "totalAmt": 4162.34, "invoiceTime": "2024-06-30T08:28:43.511535"}
+{"orderID": 92600, "customerID": 1718, "productID": [5, 0, 11, 19, 1], "paymentMthd": "Digital wallet", "totalAmt": 527.97, "invoiceTime": "2024-06-30T08:28:43.511544"}
+{"orderID": 92800, "customerID": 1905, "productID": [6], "paymentMthd": "Debit card", "totalAmt": 4051.82, "invoiceTime": "2024-06-30T08:28:43.511551"}
+{"orderID": 93000, "customerID": 1239, "productID": [9, 10, 18, 6], "paymentMthd": "Debit card", "totalAmt": 4671.96, "invoiceTime": "2024-06-30T08:28:43.511559"}
+{"orderID": 93200, "customerID": 1072, "productID": [15, 13, 4, 4], "paymentMthd": "Credit card", "totalAmt": 4017.65, "invoiceTime": "2024-06-30T08:28:43.511568"}
+{"orderID": 93400, "customerID": 1027, "productID": [13, 17, 4, 5], "paymentMthd": "Credit card", "totalAmt": 1122.2, "invoiceTime": "2024-06-30T08:28:43.511576"}
+{"orderID": 93600, "customerID": 1760, "productID": [13, 3, 18, 7], "paymentMthd": "Cash on delivery", "totalAmt": 3747.44, "invoiceTime": "2024-06-30T08:28:43.511584"}
+{"orderID": 93800, "customerID": 1865, "productID": [16, 2, 1, 6], "paymentMthd": "Digital wallet", "totalAmt": 2110.41, "invoiceTime": "2024-06-30T08:28:43.511592"}
+{"orderID": 94000, "customerID": 1276, "productID": [8, 13], "paymentMthd": "Debit card", "totalAmt": 3487.12, "invoiceTime": "2024-06-30T08:28:43.511599"}
+{"orderID": 94200, "customerID": 1294, "productID": [18, 16, 0], "paymentMthd": "Credit card", "totalAmt": 2631.38, "invoiceTime": "2024-06-30T08:28:43.511607"}
+{"orderID": 94400, "customerID": 1284, "productID": [15, 9, 2, 10], "paymentMthd": "Cash on delivery", "totalAmt": 2423.87, "invoiceTime": "2024-06-30T08:28:43.511615"}
+{"orderID": 94600, "customerID": 1111, "productID": [3, 8, 7], "paymentMthd": "Cryptocurrency", "totalAmt": 941.43, "invoiceTime": "2024-06-30T08:28:43.511623"}
+{"orderID": 94800, "customerID": 1894, "productID": [8, 7, 8, 7], "paymentMthd": "Debit card", "totalAmt": 3576.33, "invoiceTime": "2024-06-30T08:28:43.511634"}
+{"orderID": 95000, "customerID": 1447, "productID": [5, 5], "paymentMthd": "Credit card", "totalAmt": 581.71, "invoiceTime": "2024-06-30T08:28:43.511646"}
+{"orderID": 95200, "customerID": 1099, "productID": [18, 10, 10, 12, 13], "paymentMthd": "Credit card", "totalAmt": 4793.12, "invoiceTime": "2024-06-30T08:28:43.511658"}
+{"orderID": 95400, "customerID": 1895, "productID": [12, 0, 15, 14, 19], "paymentMthd": "Credit card", "totalAmt": 176.24, "invoiceTime": "2024-06-30T08:28:43.511667"}
+{"orderID": 95600, "customerID": 1324, "productID": [6, 9, 11, 4], "paymentMthd": "Digital wallet", "totalAmt": 3101.63, "invoiceTime": "2024-06-30T08:28:43.511675"}
+{"orderID": 95800, "customerID": 1078, "productID": [19, 18, 14, 8, 19], "paymentMthd": "Cryptocurrency", "totalAmt": 4787.52, "invoiceTime": "2024-06-30T08:28:43.511683"}
+{"orderID": 96000, "customerID": 1309, "productID": [14, 9], "paymentMthd": "Debit card", "totalAmt": 1146.52, "invoiceTime": "2024-06-30T08:28:43.511695"}
+{"orderID": 96200, "customerID": 1676, "productID": [4, 19, 2, 16], "paymentMthd": "Cryptocurrency", "totalAmt": 273.69, "invoiceTime": "2024-06-30T08:28:43.511703"}
+{"orderID": 96400, "customerID": 1364, "productID": [6, 0], "paymentMthd": "Cryptocurrency", "totalAmt": 4303.45, "invoiceTime": "2024-06-30T08:28:43.511711"}
+{"orderID": 96600, "customerID": 1952, "productID": [9], "paymentMthd": "Cash on delivery", "totalAmt": 1537.81, "invoiceTime": "2024-06-30T08:28:43.511719"}
+{"orderID": 96800, "customerID": 1313, "productID": [0, 11, 2, 18, 4], "paymentMthd": "Cash on delivery", "totalAmt": 1959.17, "invoiceTime": "2024-06-30T08:28:43.511727"}
+{"orderID": 97000, "customerID": 1218, "productID": [13, 8, 6, 0, 3], "paymentMthd": "Digital wallet", "totalAmt": 903.56, "invoiceTime": "2024-06-30T08:28:43.511735"}
+{"orderID": 97200, "customerID": 1737, "productID": [12, 1, 8, 0, 5], "paymentMthd": "Debit card", "totalAmt": 2287.73, "invoiceTime": "2024-06-30T08:28:43.511743"}
+{"orderID": 97400, "customerID": 1491, "productID": [10, 10], "paymentMthd": "Debit card", "totalAmt": 1529.63, "invoiceTime": "2024-06-30T08:28:43.511751"}
+{"orderID": 97600, "customerID": 1930, "productID": [8, 1, 5, 10, 1], "paymentMthd": "Debit card", "totalAmt": 1810.27, "invoiceTime": "2024-06-30T08:28:43.511763"}
+{"orderID": 97800, "customerID": 1468, "productID": [9], "paymentMthd": "Debit card", "totalAmt": 4617.96, "invoiceTime": "2024-06-30T08:28:43.511771"}
+{"orderID": 98000, "customerID": 1675, "productID": [10], "paymentMthd": "Cash on delivery", "totalAmt": 334.14, "invoiceTime": "2024-06-30T08:28:43.511779"}
+{"orderID": 98200, "customerID": 1169, "productID": [1, 11, 13], "paymentMthd": "Credit card", "totalAmt": 3157.36, "invoiceTime": "2024-06-30T08:28:43.511787"}
+{"orderID": 98400, "customerID": 1009, "productID": [6], "paymentMthd": "Cryptocurrency", "totalAmt": 1998.09, "invoiceTime": "2024-06-30T08:28:43.511795"}
+{"orderID": 98600, "customerID": 1433, "productID": [17], "paymentMthd": "Credit card", "totalAmt": 1195.26, "invoiceTime": "2024-06-30T08:28:43.511803"}
+{"orderID": 98800, "customerID": 1444, "productID": [18, 5, 1], "paymentMthd": "Debit card", "totalAmt": 2117.61, "invoiceTime": "2024-06-30T08:28:43.511810"}
+{"orderID": 99000, "customerID": 1946, "productID": [11, 16, 11, 6], "paymentMthd": "Cryptocurrency", "totalAmt": 117.2, "invoiceTime": "2024-06-30T08:28:43.511818"}
+{"orderID": 99200, "customerID": 1832, "productID": [2, 16, 2, 13], "paymentMthd": "Digital wallet", "totalAmt": 2652.69, "invoiceTime": "2024-06-30T08:28:43.511826"}
+{"orderID": 99400, "customerID": 1120, "productID": [1, 18, 7, 19, 4], "paymentMthd": "Credit card", "totalAmt": 2971.21, "invoiceTime": "2024-06-30T08:28:43.511834"}
+{"orderID": 99600, "customerID": 1916, "productID": [17, 11], "paymentMthd": "Digital wallet", "totalAmt": 1558.4, "invoiceTime": "2024-06-30T08:28:43.511843"}
+{"orderID": 99800, "customerID": 1292, "productID": [7, 17, 5], "paymentMthd": "Cryptocurrency", "totalAmt": 4137.91, "invoiceTime": "2024-06-30T08:28:43.511850"}

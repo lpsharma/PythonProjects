@@ -12,7 +12,8 @@ filters_dict = {'Debt/Equity':'Under 1',
                     'PEG':'Low (<1)', 
                     'Operating Margin':'Positive (>0%)', 
                     'P/B':'Low (<1)',
-                    'P/E':'Low (<15)',
+                    'P/E':'Under 15',
+                    'InstitutionalTransactions':'Positive (>0%)',
                     'InsiderTransactions':'Positive (>0%)'}
     
 parameters = ['Exchange', 'Index', 'Sector', 'Industry', 'Country', 'Market Cap.',
@@ -30,7 +31,7 @@ parameters = ['Exchange', 'Index', 'Sector', 'Industry', 'Country', 'Market Cap.
         'Average True Range', 'Average Volume', 'Relative Volume', 'Current Volume',
         'Price', 'Target Price', 'IPO Date', 'Shares Outstanding', 'Float']
 
-tickers = ['AMPY', 'BOOM', 'BWB', 'CAAS', 'CNX', 'HAFC', 'HTLF', 'SASR', 'SPNT', 'TCBX']
+#tickers = ['AMPY', 'BOOM', 'BWB', 'CAAS', 'CNX', 'HAFC', 'HTLF', 'SASR', 'SPNT', 'TCBX']
 
 
 def get_undervalued_stocks():
@@ -47,11 +48,12 @@ def get_undervalued_stocks():
     foverview = Overview()
     foverview.set_filter(filters_dict=filters_dict)
 
-    df_overview = foverview.screener_view()
-
+    # out file 
     if not os.path.exists("out"):
         os.makedirs("out")
-    df_overview.to_csv('out/Overview.csv,index=False')
+
+    df_overview = foverview.screener_view()
+    df_overview.to_csv('./Stock/FinViz/out/Overview.csv',index=False)
     tickets = df_overview['Ticker'].to_list()
     return tickets
 
@@ -80,9 +82,13 @@ def get_ticker_news_sentiment(ticker):
         text = article.cleaned_text
         date = article.publish_date
 
-       
-       
-        if len(text) > 512:
+        if (date != None):
+            results = pipe(text[0:512])
+            data.append({'Date':f'{date}','Article title':f'{title}','Article sentiment':results[0]['label']})
+
+        """
+        
+        if len(text) > 1024:
             data.append({'Date':f'{date}',
                          'Article title':f'{title}',
                          'Article sentiment':'NaN too long'})
@@ -92,13 +98,18 @@ def get_ticker_news_sentiment(ticker):
             data.append({'Date':f'{date}',
                          'Article title':f'{title}',
                          'Article sentiment':results[0]['label']})
-        
+        """
+    
     df = pd.DataFrame(data)
     return df
 
 
 def generate_csv(ticker):
-    get_ticker_news_sentiment(ticker).to_csv(f'./out/{ticker}.csv', index=False)
+    df = get_ticker_news_sentiment(ticker)
+    if (len(df)>0):
+        df.to_csv(f'./Stock/FinViz/out/{ticker}.csv', index=False)
+
+    
 
 
 # Main Program 
