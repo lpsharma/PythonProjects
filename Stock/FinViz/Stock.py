@@ -31,8 +31,6 @@ parameters = ['Exchange', 'Index', 'Sector', 'Industry', 'Country', 'Market Cap.
         'Average True Range', 'Average Volume', 'Relative Volume', 'Current Volume',
         'Price', 'Target Price', 'IPO Date', 'Shares Outstanding', 'Float']
 
-#tickers = ['AMPY', 'BOOM', 'BWB', 'CAAS', 'CNX', 'HAFC', 'HTLF', 'SASR', 'SPNT', 'TCBX']
-
 
 def get_undervalued_stocks():
     """
